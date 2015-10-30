@@ -28,3 +28,5 @@
 9. Upload photos for sharing between participants
 10. Search functions
 
+![Vincent](http://www.comp.polyu.edu.hk/files/staff-profile-picture-ng-vincent.jpg)
+#LONG LIVE VINCENT!
