@@ -22,9 +22,9 @@
 - Request meeting places for ad-hoc conference activity
 - Request to form specific forums for different groups for better communications; only participants in a defined group can join specific forums
 - Create/ edit plan of the day and personal interest profiles; Support personal schedule for joining different activities in a conference
-- Access/ searchinterest profiles of other participant
+- Access/ search interest profiles of other participant
 - Allow a participant to send a message to another participant and connect with each other to accessand share profiles information; Two-way contact exchange for networking -- share and request contact information between event attendees
-- Send feedbacks to conference organizer
+- Send feedback to conference organizer
 - Upload photos for sharing between participants
 - Search functions
 
