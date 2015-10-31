@@ -43,7 +43,7 @@ updated 2015-11-01 01:24:19
 	1. 群组建立
 	2. 成员和群主可看到相同的**页面**（群主多一个踢人的权限）
 	3. 群主和成员有权限加人进群组（需验证被加的成员是否在specific group）    
-	>	Participants 4. only participants in a defined group can join specific forums
+	> Participants 4. only participants in a defined group can join specific forums
 	4. 群主有权限向管理员请求解散群组
 	5. 成员有权限退出群组
 2. Guest可提出组织临时会议（Ad-hoc Conference）的请求给Admin -> Admin同意 ->
