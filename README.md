@@ -14,6 +14,7 @@
 5. Provide schedule reminder to participants
 6. Support the tracking on the meeting sessions' "people flow"
 7. Generate participant activity reports
+8. View Feedbacks
 
 #### Conference participants able to 
 
