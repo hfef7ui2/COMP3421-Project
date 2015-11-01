@@ -2,9 +2,12 @@
 
 ##Process
 
-1. Welcomd Page Design Version 1 Complete, with many CSS bugs
+1. WelcomdPage Design Version 1 Complete, with many CSS bugs
 
+##TODOS
 
+1. Complete WelcomePage CSS
+2. ALL
 
 ![Vincent](http://www.comp.polyu.edu.hk/files/staff-profile-picture-ng-vincent.jpg)
 #LONG LIVE VINCENT!
