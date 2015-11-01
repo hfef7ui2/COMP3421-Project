@@ -8,13 +8,13 @@ updated 2015-11-01 01:24:19
 #### Admin People with a web interface
 
 1. Easy Login
-2. Support personal meeting collaboratively among participants like the session topic, meeting location and attendee response, etc
-3. Receive requests from participants to form forums for different sub-groups
-4. Receive and review request of meeting places for ad-hoc conference activity
-5. Provide schedule reminder to participants
-6. Support the tracking on the meeting sessions' "people flow"
-7. Generate participant activity reports
-8. View Feedbacks
+2. Support **personal meeting** collaboratively among participants like the session topic, meeting location and attendee response, etc
+3. Receive requests from participants to form **forums** for different sub-groups
+4. Receive and review request of **meeting places for ad-hoc conference activity**
+5. Provide schedule **reminder** to participants
+6. Support the tracking on the meeting sessions' **"people flow"**
+7. Generate participant **activity reports**
+8. View **Feedbacks**
 
 #### Conference participants able to 
 

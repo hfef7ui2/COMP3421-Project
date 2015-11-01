@@ -1,0 +1,69 @@
+/* TitleBar: */
+#TitleBar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 7.8%;
+    border: 1px solid #979797;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.50);
+}
+/* Circle: */
+#Circle {
+    position: absolute;
+    left: 64.64%;
+    top: 0;
+    width: 11.3%;
+    height: 11.3%;
+    border-radius: 50%;
+    background: #E3E3E3;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.50);
+}
+/* Help: */
+#Help {
+    position: absolute;
+    left: 3.2%;
+    top: 1.66%;
+    font-family: AvenirNext-Regular, sans-serif;
+    font-size: 30px;
+    color: #4A4A4A;
+    line-height: 41px;
+}
+/* ICON: */
+#ICON {
+    position: absolute;
+    left: 46.8%;
+    top: 3.8%;
+    font-family: LucidaCalligraphy-Italic, sans-serif;
+    font-size: 30px;
+    color: #4A4A4A;
+    line-height: 41px;
+}
+/* SearchIcon: */
+#SearchIcon {
+    position: absolute;
+    left: 96.25%;
+    top: 2.15%;
+}
+/* SearchFrame: */
+#SearchFrame {
+    position: absolute;
+    left: 84.51%;
+    top: 1.38%;
+    width: 10.69%;
+    height: 4%;
+    background: #FFFFFF;
+    border: 1px solid #979797;
+    box-shadow: inset 0 1px 3px 0 rgba(0, 0, 0, 0.50);
+    border-radius: 3px;
+}
+/* Search: */
+#Search {
+    position: absolute;
+    left: 84.86%;
+    top: 2.83%;
+    font-family: AvenirNext-Regular, sans-serif;
+    font-size: 24px;
+    color: rgba(74, 73, 74, 0.60);
+    line-height: 33px;
+}
