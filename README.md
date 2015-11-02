@@ -4,6 +4,7 @@
 
 1. WelcomdPage Design Version 1 Complete, with many CSS bugs    
 ![Vincent](http://www.comp.polyu.edu.hk/files/staff-profile-picture-ng-vincent.jpg)![Vincent](http://www.comp.polyu.edu.hk/files/staff-profile-picture-ng-vincent.jpg)![Vincent](http://www.comp.polyu.edu.hk/files/staff-profile-picture-ng-vincent.jpg)![Vincent](http://www.comp.polyu.edu.hk/files/staff-profile-picture-ng-vincent.jpg)![Vincent](http://www.comp.polyu.edu.hk/files/staff-profile-picture-ng-vincent.jpg)![Vincent](http://www.comp.polyu.edu.hk/files/staff-profile-picture-ng-vincent.jpg)![Vincent](http://www.comp.polyu.edu.hk/files/staff-profile-picture-ng-vincent.jpg)
+
 ##TODOS
 
 1. Complete WelcomePage CSS
