@@ -9,5 +9,5 @@
 1. Complete WelcomePage CSS
 2. ALL
 
-![Vincent](http://www.comp.polyu.edu.hk/files/staff-profile-picture-ng-vincent.jpg)
+![Vincent](http://www.comp.polyu.edu.hk/files/staff-profile-picture-ng-vincent.jpg)![Vincent](http://www.comp.polyu.edu.hk/files/staff-profile-picture-ng-vincent.jpg)![Vincent](http://www.comp.polyu.edu.hk/files/staff-profile-picture-ng-vincent.jpg)![Vincent](http://www.comp.polyu.edu.hk/files/staff-profile-picture-ng-vincent.jpg)
 #LONG LIVE VINCENT!
