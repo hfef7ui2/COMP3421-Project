@@ -9,3 +9,7 @@
 
 * list all things you want to do
 * Scoping and documentation are important
+
+* anybody can go anywhere in the conference
+* For some part, everyone is expected to come, but sometimes conference orgranizer may divide the participants in small groups
+* **personal plan** Plan personal daily schedule during the conference, when and where to go. Defince choices and receive reminders
