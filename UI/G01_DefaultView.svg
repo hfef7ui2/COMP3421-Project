@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1440px" height="1024px" viewBox="0 0 1440 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15588) - http://www.bohemiancoding.com/sketch -->
+    <title>G01_DefaultView</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="10" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.678125 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path id="path-2" d="M23.458368,23.3621826 L34.7670746,34.1424449"></path>
+        <ellipse id="path-3" cx="13.6372549" cy="13" rx="13.6372549" ry="13"></ellipse>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="G01_DefaultView" sketch:type="MSArtboardGroup">
+            <g id="Title-Bar" sketch:type="MSLayerGroup">
+                <rect id="TitleBar" fill="#50E3C2" sketch:type="MSShapeGroup" x="0" y="0" width="1440" height="80"></rect>
+                <path d="M720,116 C752.032515,116 778,90.0325155 778,58 C778,25.9674845 752.032515,0 720,0 C687.967485,0 662,25.9674845 662,58 C662,90.0325155 687.967485,116 720,116 Z" id="Circle" stroke="#979797" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <text id="Help" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="30" font-weight="normal" fill="#808080">
+                    <tspan x="1000" y="50">Help</tspan>
+                </text>
+                <text id="ICON" sketch:type="MSTextLayer" font-family="Lucida Calligraphy" font-size="30" font-style="italic" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="674" y="70">ICON</tspan>
+                </text>
+                <g id="Search" transform="translate(1102.000000, 19.000000)">
+                    <g id="SeachIcon3-+-SeachIcon2-+-SearchIcon1" transform="translate(276.284314, 4.000000)">
+                        <g id="SeachIcon3" filter="url(#filter-1)">
+                            <use stroke="none" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                            <use stroke="#979797" stroke-width="3" stroke-linecap="square" fill="none" xlink:href="#path-2"></use>
+                            <use stroke="none" fill="none" xlink:href="#path-2"></use>
+                        </g>
+                        <ellipse id="SeachIcon2" stroke="#979797" fill="#9B9B9B" sketch:type="MSShapeGroup" cx="35.6666667" cy="35" rx="1.04901961" ry="1"></ellipse>
+                        <g id="SearchIcon1">
+                            <use stroke="none" fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                            <use stroke="#979797" stroke-width="3" fill="none" xlink:href="#path-3"></use>
+                            <use stroke="none" fill="none" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                    <g id="Input-/-Text">
+                        <rect id="SearchFrame" stroke="#979797" fill="#FFFFFF" filter="url(#filter-4)" sketch:type="MSShapeGroup" x="0" y="0" width="260.54902" height="41" rx="3"></rect>
+                        <text id="Search..." sketch:type="MSTextLayer" font-family="Avenir Next" font-size="24" font-weight="normal">
+                            <tspan x="94" y="32" fill="#9B9B9B">Search</tspan>
+                            <tspan x="168.136" y="32" fill="#4A4A4A">…</tspan>
+                        </text>
+                        <rect id="Default" stroke="#979797" fill="#E3E3E3" filter="url(#filter-5)" sketch:type="MSShapeGroup" x="3" y="3" width="85" height="35" rx="3"></rect>
+                        <text id="People" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="24" font-weight="normal" fill="#9B9B9B">
+                            <tspan x="7" y="30">People</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="GuestInfo" transform="translate(23.000000, 16.000000)">
+                    <ellipse id="Oval-17" stroke="#2D3947" stroke-width="2" fill="#2D3947" sketch:type="MSShapeGroup" cx="19.1935484" cy="7.33333333" rx="6.93548387" ry="7.03703704"></ellipse>
+                    <path d="M19.1935484,43.9555082 L37.2047134,43.9555082 C44.0230863,43.9555082 28.3864171,18.5925926 19.1935484,18.5925926 C10.0006796,18.5925926 -5.69184782,43.9555082 2.5853297,43.9555082 L19.1935484,43.9555082 Z" id="Oval-18" stroke="#2D3947" stroke-width="2" fill="#2D3947" sketch:type="MSShapeGroup"></path>
+                    <text id="me" sketch:type="MSTextLayer" font-family="Cambria" font-size="20" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="6" y="40">me</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Left" fill="#2D3947" sketch:type="MSShapeGroup" transform="translate(39.000000, 549.000000) scale(1, -1) translate(-39.000000, -549.000000) " x="-1" y="77" width="80" height="944"></rect>
+            <g id="Comment" sketch:type="MSLayerGroup" transform="translate(25.000000, 830.000000)" stroke="#FFFFFF">
+                <rect id="Rectangle-12" stroke-width="2" sketch:type="MSShapeGroup" x="0" y="0" width="33" height="31"></rect>
+                <path d="M5.36842105,25.1071429 L20.5,25.1071428" id="Line-5" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M5.36842105,20.1071429 L27.4736842,20.1071429" id="Line-4" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M5.36842105,15.1071429 L27.4736842,15.1071429" id="Line-3" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M5.36842105,10.1071429 L27.4736842,10.1071429" id="Line-2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M5.36842105,5.10714286 L27.4736842,5.10714286" id="Line-Copy" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <g id="Pencil" transform="translate(36.914138, 32.331591) rotate(-320.000000) translate(-36.914138, -32.331591) translate(34.414138, 18.331591)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-11" x="0" y="0" width="5" height="21"></rect>
+                    <polygon id="Triangle-3" transform="translate(2.500000, 25.000000) scale(1, -1) translate(-2.500000, -25.000000) " points="2.5 22 5 28 0 28 "></polygon>
+                </g>
+            </g>
+            <g id="Chat" sketch:type="MSLayerGroup" transform="translate(23.000000, 720.000000)">
+                <path d="M18,42 C19.5910502,42 21.1338862,41.8337099 22.6031863,41.5215277 C26.0909071,40.7804919 29.1642827,39.2174143 31.4846327,37.1051209 C34.2944178,34.5472781 36,31.1840896 36,27.5 C36,19.4918711 27.9411255,13 18,13 C8.0588745,13 0,19.4918711 0,27.5 C0,35.5081289 8.0588745,42 18,42 Z" id="Oval-26" stroke="#FFFFFF" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                <path d="M21.7099488,41.6562843 L34.2450955,45.7464222 L31.5028488,37.006" id="Path-36" stroke="#FFFFFF" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                <text id="..." sketch:type="MSTextLayer" font-family="Avenir Next" font-size="30" font-weight="420" sketch:alignment="middle" fill="#FFFFFF">
+                    <tspan x="6.3" y="30">...</tspan>
+                </text>
+            </g>
+            <g id="Location" sketch:type="MSLayerGroup" transform="translate(20.000000, 629.000000)" stroke="#FFFFFF">
+                <path d="M12.3863187,29.2083826 L28.5832705,29.2083826 L40.9920039,46.212985 L0.953221679,46.212985 L12.3863187,29.2083826 Z" id="Rectangle-15" sketch:type="MSShapeGroup"></path>
+                <path d="M11.1001267,23.612357 C12.3290122,25.7698334 20.5,37 20.5,37 C20.5,37 28.190588,26.6512178 29.5153637,24.2187424 C30.8401394,21.786267 34,16.2492385 34,13.0520391 C34,5.84359696 27.9558441,0 20.5,0 C13.0441559,0 7,5.84359696 7,13.0520391 C7,16.3210514 9.87124133,21.4548805 11.1001267,23.612357 Z" id="Oval-24" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                <ellipse id="Oval-25" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="20.5" cy="11.383862" rx="3.5" ry="3.383862"></ellipse>
+                <path d="M27.3907683,30.2224837 C27.3907683,31.9721121 25.2724772,33.5640207 25.1520584,34.8158513 C24.8706232,37.7415476 26.4333494,39.1912388 26.4333494,39.1912388 C26.4333494,39.1912388 27.9257894,41.2304473 29.0649403,41.8220275 C30.2040912,42.4136077 32.6176722,43.2283169 33.8667854,43.1792394 C35.1158986,43.1301619 36.5935879,41.8220275 36.5935879,41.8220275" id="Path-33" sketch:type="MSShapeGroup"></path>
+                <path d="M18.5,30.5 L18.5,45.5" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M6.76639237,38.7614317 C8.77479758,41.7849098 6.77204865,45.6601438 11.6978819,41.763523 C16.6237151,37.8669022 14.3047602,36.1278632 20.8494438,39.9421188 C27.3941275,43.7563744 23.6977624,40.9591354 27.9291475,43.484887 C32.1605326,46.0106385 32.5910939,45.6134819 32.5910939,45.6134819" id="Path-35" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="Request" sketch:type="MSLayerGroup" transform="translate(18.000000, 534.000000)" stroke="#FFFFFF" stroke-width="2">
+                <path d="M1.99999999,31 L16.9999998,18" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-154" sketch:type="MSShapeGroup" x="0" y="0" width="44" height="33"></rect>
+                <path d="M27,31 L42,18" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup" transform="translate(34.500000, 24.500000) scale(-1, 1) translate(-34.500000, -24.500000) "></path>
+                <path d="M2,2 L22,21" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M42,2 L22,21" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="GuestInfo" sketch:type="MSLayerGroup" transform="translate(23.000000, 427.000000)">
+                <ellipse id="Oval-17" stroke="#FFFFFF" stroke-width="2" sketch:type="MSShapeGroup" cx="19.1935484" cy="7.33333333" rx="6.93548387" ry="7.03703704"></ellipse>
+                <path d="M19.1935484,43.9555082 L37.2047134,43.9555082 C44.0230863,43.9555082 28.3864171,18.5925926 19.1935484,18.5925926 C10.0006796,18.5925926 -5.69184782,43.9555082 2.5853297,43.9555082 L19.1935484,43.9555082 Z" id="Oval-18" stroke="#FFFFFF" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                <text id="i" sketch:type="MSTextLayer" font-family="Cambria" font-size="20" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="16" y="38">i</tspan>
+                </text>
+            </g>
+            <g id="People-Flow" sketch:type="MSLayerGroup" transform="translate(19.000000, 330.000000)" stroke-width="2" stroke="#FFFFFF">
+                <g id="People" sketch:type="MSShapeGroup">
+                    <ellipse id="Oval-17" cx="27.2682927" cy="9.5" rx="5.24390244" ry="5.27777778"></ellipse>
+                    <path d="M27.2682927,36.9666311 L40.8864906,36.9666311 C46.0418458,36.9666311 34.2189983,17.9444444 27.2682927,17.9444444 C20.3175871,17.9444444 8.45250531,36.9666311 14.710859,36.9666311 L27.2682927,36.9666311 Z" id="Oval-18"></path>
+                    <ellipse id="Oval-17" cx="14.6829268" cy="5.27777778" rx="5.24390244" ry="5.27777778"></ellipse>
+                    <path d="M9.44027263,32.7444089 C10.8954904,32.7444089 11.6865894,28.5007061 14.3222035,24.6207365 C16.0130302,22.1316179 19.2242243,19.6249682 18.5370843,17.4069091 C17.8499443,15.1888501 16.5618048,13.7222222 14.3222038,13.7222222 C7.37149819,13.7222222 -4.49358355,32.7444089 1.76477018,32.7444089 L9.44027263,32.7444089 Z" id="Oval-18"></path>
+                </g>
+            </g>
+            <g id="SendReminder" sketch:type="MSLayerGroup" transform="translate(15.000000, 220.000000)" stroke="#FFFFFF">
+                <g id="Notification" sketch:type="MSShapeGroup">
+                    <path d="M24.0242954,5 C24.0242954,5 23.8377276,5 24.498598,5 C25.1594684,5 30.5457403,7.05900473 32.5212572,8.79632032 C35.1017106,11.0656312 38.8076944,21.0567795 38.8076944,21.0567795 C38.8076944,21.0567795 41.8653446,29.6428753 43.2083384,32.0385842 C44.5513321,34.4342932 46.1542003,35.42693 46.1542003,35.42693 C46.1542003,35.42693 48.5799924,37.4857448 48.5799918,37.4857461 C48.5799912,37.4857474 52.6643607,39.7996769 45.4841105,39.7996769 C38.3038603,39.7996769 24.0242954,39.7996757 24.0242954,39.7996757" id="Path-19" stroke-width="2"></path>
+                    <path d="M0.0235998113,5 C0.0235998113,5 -0.157626567,5 0.484323322,5 C1.12627321,5 6.35833796,7.05900473 8.27729643,8.79632032 C10.7838723,11.0656312 14.3837551,21.0567795 14.3837551,21.0567795 C14.3837551,21.0567795 17.3538657,29.6428753 18.65841,32.0385842 C19.9629542,34.4342932 21.5199329,35.42693 21.5199329,35.42693 C21.5199329,35.42693 23.8762754,37.4857448 23.8762748,37.4857461 C23.8762742,37.4857474 27.8437095,39.7996769 20.8690275,39.7996769 C13.8943455,39.7996769 0.0235998118,39.7996757 0.0235998118,39.7996757" id="Path-19" stroke-width="2" transform="translate(12.500000, 22.399838) scale(-1, 1) translate(-12.500000, -22.399838) "></path>
+                    <path d="M24.8184427,51.1947072 C28.1769311,51.1947072 33.5755204,43 30.8995238,43.0000001 C28.2235272,43.0000001 28.6022912,43.0000002 24.8184427,43.0000001 C21.0345942,43 21.4591613,43 18.7373616,43.0000001 C16.0155619,43.0000002 21.4599544,51.1947072 24.8184427,51.1947072 Z" id="Oval-15" stroke-width="2"></path>
+                    <ellipse id="Oval-16" cx="24.5" cy="2.5" rx="2" ry="2"></ellipse>
+                </g>
+            </g>
+            <g id="UpdateTime" sketch:type="MSLayerGroup" transform="translate(11.000000, 120.000000)">
+                <g id="IconUpdate-+-21-+-May">
+                    <polygon id="Polygon-1" stroke="#FFFFFF" stroke-width="2" sketch:type="MSShapeGroup" points="58.2695312 0.743164062 58.2695313 41.8339844 40.8891602 59.1552734 0.0319824219 59.1552734 0.0319824219 0.997314453 "></polygon>
+                    <text id="21" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="24" font-weight="normal" sketch:alignment="middle" fill="#FFFFFF">
+                        <tspan x="15.08" y="51">21</tspan>
+                    </text>
+                    <text id="May" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="20" font-weight="normal" sketch:alignment="middle" fill="#FFFFFF">
+                        <tspan x="9.92" y="20">May</tspan>
+                    </text>
+                </g>
+                <polygon id="Triangle-1" stroke="#FFFFFF" stroke-width="2" sketch:type="MSShapeGroup" points="57.7534964 43.0699664 42.1349422 43.0699664 42.1349422 58.6379567 "></polygon>
+            </g>
+            <g id="Icon0" sketch:type="MSLayerGroup" transform="translate(260.000000, 152.000000)">
+                <ellipse id="Oval-17" stroke="#50E3C2" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="63.4863524" cy="24.3333333" rx="22.9404467" ry="23.3501684"></ellipse>
+                <path d="M63.4863524,145.852368 L123.061744,145.852368 C145.614824,145.852368 93.8935336,61.6936027 63.4863524,61.6936027 C33.0791711,61.6936027 -18.8268812,145.852368 8.55147517,145.852368 L63.4863524,145.852368 Z" id="Oval-18" stroke="#50E3C2" stroke-width="2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <text id="me" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="66.1538462" font-weight="normal" fill="#50E3C2">
+                    <tspan x="20" y="136">me</tspan>
+                </text>
+            </g>
+            <text id="Plan-your-day,-add-c" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="26" font-weight="normal" sketch:alignment="middle" fill="#808080">
+                <tspan x="610.826" y="356">Plan your day, add </tspan>
+                <tspan x="571.527" y="392">conferences you wang to </tspan>
+                <tspan x="681.832" y="428">attend</tspan>
+            </text>
+            <g id="Icon1" sketch:type="MSLayerGroup" transform="translate(670.000000, 165.000000)">
+                <g id="IconUpdate-+-21-+-May">
+                    <polygon id="Polygon-1" stroke="#50E3C2" stroke-width="2" sketch:type="MSShapeGroup" points="106.662871 1.35008138 106.662871 75.9984049 74.8479542 107.465413 0.0585440943 107.465413 0.0585440943 1.81178792 "></polygon>
+                    <text id="21" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="43.6" font-weight="normal" sketch:alignment="middle" fill="#50E3C2">
+                        <tspan x="27.7967458" y="93.05">21</tspan>
+                    </text>
+                    <text id="May" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="36.3333333" font-weight="normal" sketch:alignment="middle" fill="#50E3C2">
+                        <tspan x="18.4227458" y="36">May</tspan>
+                    </text>
+                </g>
+                <polygon id="Triangle-1" stroke="#50E3C2" stroke-width="2" sketch:type="MSShapeGroup" points="105.718265 78.2437724 77.1283689 78.2437724 77.1283689 106.525621 "></polygon>
+            </g>
+            <g id="Icon2" sketch:type="MSLayerGroup" transform="translate(1081.000000, 163.000000)" stroke="#50E3C2">
+                <g id="Notification" sketch:type="MSShapeGroup">
+                    <path d="M51.892478,9.76923077 C51.892478,9.76923077 51.4894917,9.76923077 52.9169717,9.76923077 C54.3444518,9.76923077 65.9787991,14.2040102 70.2459155,17.9459207 C75.8196948,22.8336671 83.82462,44.3530634 83.82462,44.3530634 C83.82462,44.3530634 90.4291444,62.8461929 93.3300109,68.0061814 C96.2308773,73.1661699 99.6930727,75.304157 99.6930727,75.304157 C99.6930727,75.304157 104.932784,79.7385273 104.932782,79.7385301 C104.932781,79.7385328 113.755019,84.7223809 98.2456786,84.7223809 C82.7363382,84.7223809 51.892478,84.7223784 51.892478,84.7223784" id="Path-19" stroke-width="2"></path>
+                    <path d="M0.0509755924,9.76923077 C0.0509755924,9.76923077 -0.340473385,9.76923077 1.04613838,9.76923077 C2.43275014,9.76923077 13.73401,14.2040102 17.8789603,17.9459207 C23.2931641,22.8336671 31.0689109,44.3530634 31.0689109,44.3530634 C31.0689109,44.3530634 37.48435,62.8461929 40.3021656,68.0061814 C43.1199811,73.1661699 46.4830551,75.304157 46.4830551,75.304157 C46.4830551,75.304157 51.5727548,79.7385273 51.5727535,79.7385301 C51.5727523,79.7385328 60.1424125,84.7223809 45.0770994,84.7223809 C30.0117863,84.7223809 0.0509755935,84.7223784 0.0509755935,84.7223784" id="Path-19" stroke-width="2" transform="translate(27.000000, 47.245806) scale(-1, 1) translate(-27.000000, -47.245806) "></path>
+                    <path d="M53.6078363,109.265523 C60.8621711,109.265523 72.523124,91.6153846 66.7429714,91.6153848 C60.9628187,91.6153849 61.7809489,91.6153849 53.6078362,91.6153848 C45.4347235,91.6153846 46.3517885,91.6153845 40.4727011,91.6153848 C34.5936137,91.615385 46.3535015,109.265523 53.6078363,109.265523 Z" id="Oval-15" stroke-width="2"></path>
+                    <ellipse id="Oval-16" cx="52.92" cy="4.38461538" rx="4.32" ry="4.30769231"></ellipse>
+                </g>
+            </g>
+            <text id="View-reminders-from-" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="26" font-weight="normal" sketch:alignment="middle" fill="#808080">
+                <tspan x="1013.215" y="354">View reminders from </tspan>
+                <tspan x="981.612" y="390">conference administrators</tspan>
+            </text>
+            <g id="Icon3" sketch:type="MSLayerGroup" transform="translate(276.000000, 466.000000)" stroke-width="2" stroke="#50E3C2">
+                <g id="People" sketch:type="MSShapeGroup">
+                    <ellipse id="Oval-17" cx="67.8536585" cy="23.6216216" rx="13.0487805" ry="13.1231231"></ellipse>
+                    <path d="M67.8536585,91.9170288 L101.740802,91.9170288 C114.569244,91.9170288 85.1496005,44.6186186 67.8536585,44.6186186 C50.5577166,44.6186186 21.0329783,91.9170288 36.6060911,91.9170288 L67.8536585,91.9170288 Z" id="Oval-18"></path>
+                    <ellipse id="Oval-17" cx="36.5365854" cy="13.1231231" rx="13.0487805" ry="13.1231231"></ellipse>
+                    <path d="M23.490911,81.4185303 C27.1120342,81.4185303 29.0805829,70.8666205 35.6389715,61.2191286 C39.8463774,55.0299689 47.8370232,48.7972182 46.1271633,43.2820444 C44.4173033,37.7668706 41.211933,34.1201201 35.6389723,34.1201201 C18.3430304,34.1201201 -11.1817079,81.4185303 4.39140486,81.4185303 L23.490911,81.4185303 Z" id="Oval-18"></path>
+                </g>
+            </g>
+            <text id="Form-or-join-groups" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="26" font-weight="normal" sketch:alignment="middle" fill="#808080">
+                <tspan x="207.149" y="629">Form or join groups</tspan>
+            </text>
+            <g id="Icon5" sketch:type="MSLayerGroup" transform="translate(1081.000000, 467.000000)" stroke="#50E3C2" stroke-width="2">
+                <path d="M5.49999998,85.4848485 L46.7499994,49.6363636" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-154" sketch:type="MSShapeGroup" x="0" y="0" width="121" height="91"></rect>
+                <path d="M74.25,85.4848485 L115.5,49.6363636" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup" transform="translate(94.875000, 67.560606) scale(-1, 1) translate(-94.875000, -67.560606) "></path>
+                <path d="M5.5,5.51515152 L60.5,57.9090909" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M115.5,5.51515152 L60.5,57.9090909" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
+            <text id="Request-to-orgnize-a" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="26" font-weight="normal" sketch:alignment="middle" fill="#808080">
+                <tspan x="985.487" y="611">Request to orgnize ad-hoc </tspan>
+                <tspan x="993.729" y="647">conference and personal </tspan>
+                <tspan x="982.159" y="683">meetings and view records</tspan>
+            </text>
+            <text id="Send-Feebacks-to-adm" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="26" font-weight="normal" sketch:alignment="middle" fill="#808080">
+                <tspan x="966.983" y="913">Send Feebacks to administrators</tspan>
+            </text>
+            <g id="Icon4" sketch:type="MSLayerGroup" transform="translate(676.000000, 463.000000)">
+                <ellipse id="Oval-17" stroke="#50E3C2" stroke-width="2" sketch:type="MSShapeGroup" cx="43.3085194" cy="16.5" rx="15.6492969" ry="15.8333333"></ellipse>
+                <path d="M43.3085194,98.8998934 L83.9490968,98.8998934 C99.3341435,98.8998934 64.0514027,41.8333333 43.3085194,41.8333333 C22.5656361,41.8333333 -12.8431438,98.8998934 5.83356445,98.8998934 L43.3085194,98.8998934 Z" id="Oval-18" stroke="#50E3C2" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                <text id="i" sketch:type="MSTextLayer" font-family="Cambria" font-size="45" font-weight="normal" fill="#50E3C2">
+                    <tspan x="36.1025641" y="85.75">i</tspan>
+                </text>
+            </g>
+            <text id="Search-and-view-othe" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="26" font-weight="normal" sketch:alignment="middle" fill="#808080">
+                <tspan x="589.33" y="611">Search and view other </tspan>
+                <tspan x="543.583" y="647">participants’ profile. Send and </tspan>
+                <tspan x="553.164" y="683">view request for exchanging </tspan>
+                <tspan x="671.048" y="719">contacts</tspan>
+            </text>
+            <g id="Icon9" sketch:type="MSLayerGroup" transform="translate(1095.000000, 758.000000)" stroke="#50E3C2">
+                <rect id="Rectangle-12" stroke-width="2" sketch:type="MSShapeGroup" x="0" y="0" width="87.3125" height="81.9777778"></rect>
+                <path d="M14.2039474,66.3944444 L54.2395833,66.3944443" id="Line-5" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M14.2039474,53.1722222 L72.6907895,53.1722222" id="Line-4" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M14.2039474,39.95 L72.6907895,39.95" id="Line-3" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M14.2039474,26.7277778 L72.6907895,26.7277778" id="Line-2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M14.2039474,13.5055556 L72.6907895,13.5055556" id="Line-Copy" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <g id="Pencil" transform="translate(97.656793, 86.112837) rotate(-320.000000) translate(-97.656793, -86.112837) translate(90.656793, 48.612837)" stroke-width="2" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-11" x="5.68434189e-14" y="6.39488462e-14" width="13.2291667" height="55.5333333"></rect>
+                    <polygon id="Triangle-3" transform="translate(6.614583, 66.111111) scale(1, -1) translate(-6.614583, -66.111111) " points="6.61458333 58.1777778 13.2291667 74.0444444 5.68434189e-14 74.0444444 "></polygon>
+                </g>
+            </g>
+            <g id="Icon7" sketch:type="MSLayerGroup" transform="translate(260.000000, 747.000000)" stroke="#50E3C2">
+                <path d="M33.4431192,83.0026507 L79.4706571,83.0026507 L114.73306,131.325322 L0.953221679,131.325322 L33.4431192,83.0026507 Z" id="Rectangle-15" sketch:type="MSShapeGroup"></path>
+                <path d="M29.7880951,67.1001967 C33.2802689,73.2311855 56.5000979,105.144407 56.5000979,105.144407 C56.5000979,105.144407 78.3547551,75.7358512 82.1194241,68.8233869 C85.8840932,61.9109225 94.8635978,46.1761231 94.8635978,37.0905113 C94.8635978,16.6059875 77.6876738,0 56.5000979,0 C35.3125219,0 18.136598,16.6059875 18.136598,37.0905113 C18.136598,46.3801967 26.2959214,60.969208 29.7880951,67.1001967 Z" id="Oval-24" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                <ellipse id="Oval-25" stroke-width="3" sketch:type="MSShapeGroup" cx="56.5000979" cy="32.3499844" rx="9.94609257" ry="9.61605848"></ellipse>
+                <path d="M76.1400363,83.6679094 C76.1400363,88.6398997 70.0622409,95.380245 69.7200416,98.9376229 C68.920276,107.251693 73.3611385,111.37134 73.3611385,111.37134 C73.3611385,111.37134 77.602266,117.166242 80.8394375,118.847359 C84.0766091,120.528477 90.9353805,122.843669 94.4850365,122.704204 C98.0346924,122.564738 104.446985,118.1886 104.446985,118.1886" id="Path-33" sketch:type="MSShapeGroup"></path>
+                <path d="M46.5,84.5 L46.5,130.499998" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M16.3538049,109.93095 C22.0611718,118.522891 17.4888193,129.754291 31.4867602,118.681105 C43.0629196,109.523689 40.5588141,104.559539 49.8648344,109.24644 C51.8116932,110.226959 54.2754388,111.629871 57.4931267,113.505146 C76.0914209,124.344272 65.5873094,116.395244 77.6118089,123.572775 C89.6363084,130.750306 91.7746179,130.776495 91.7746179,130.776495" id="Path-35" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="Icon8" sketch:type="MSLayerGroup" transform="translate(667.000000, 724.000000)">
+                <path d="M53.5,124.369565 C58.2289546,124.369565 62.8146062,123.87431 67.1816925,122.94455 C77.547974,120.737552 86.6827291,116.082299 93.579325,109.791338 C101.930631,102.173415 107,92.1569626 107,81.1847826 C107,57.3344858 83.0472341,38 53.5,38 C23.9527659,38 0,57.3344858 0,81.1847826 C0,105.035079 23.9527659,124.369565 53.5,124.369565 Z" id="Oval-26" stroke="#50E3C2" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                <path d="M65,123.84976 L96.4232521,137.807737 L94.1066753,110" id="Path-36" stroke="#50E3C2" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                <text id="..." sketch:type="MSTextLayer" font-family="Avenir Next" font-size="89.1666667" font-weight="normal" sketch:alignment="middle" fill="#50E3C2">
+                    <tspan x="19.225" y="89">...</tspan>
+                </text>
+            </g>
+            <text id="Update-your-personal" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="26" font-weight="normal" sketch:alignment="middle" fill="#808080">
+                <tspan x="127.819" y="354">Update your personal information </tspan>
+                <tspan x="171.083" y="390">and share your experience</tspan>
+            </text>
+            <text id="Chat-with-your-frien" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="26" font-weight="normal" sketch:alignment="middle" fill="#808080">
+                <tspan x="550.824" y="904">Chat with your friends and in </tspan>
+                <tspan x="678.315" y="940">groups</tspan>
+            </text>
+            <text id="Update-your-location" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="26" font-weight="normal" sketch:alignment="middle" fill="#808080">
+                <tspan x="154.027" y="920">Update your location and see </tspan>
+                <tspan x="241.491" y="956">people nearby</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
